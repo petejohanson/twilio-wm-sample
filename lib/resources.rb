@@ -1,0 +1,5 @@
+require 'resources/twilio_menu_resource'
+require 'resources/new_call_resource'
+require 'resources/intro_resource'
+require 'resources/address_resource'
+require 'resources/hours_resource'
