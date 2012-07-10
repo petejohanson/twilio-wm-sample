@@ -7,7 +7,6 @@ class NewCallResource < Webmachine::Resource
   end
 
   def process_post
-    puts 'PROCESS POST!'
     response.redirect_to '/intro'
   end
 end
