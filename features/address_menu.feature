@@ -1,7 +1,7 @@
 Feature: The intro menu
-  In order to provider customers with a way to access any desired information
+  In order to provider customers with a way to access the business address
   As an automated phone system
-  I want to provide a simple introductory menu with options to navigate to other menus
+  I want to provide a simple menu that provides the business address
 
 Scenario: Loading the menu
   When entering the address menu
